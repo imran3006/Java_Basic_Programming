@@ -8,7 +8,7 @@
 3. IDE:  Intellij IDEA  
 
 
-## Problems have been solved are titled below:  
+## Problems have been titled below:  
 
 1. Write a program to check if inputted letter is small or capital  
 
