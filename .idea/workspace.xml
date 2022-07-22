@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9683415-83d3-4cfe-9500-ace4bdfb88e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/ConvertUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/FindImages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/FindVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/LaptopPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/MyChattogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/ReplaceChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/TotalCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string_manipulation/TransactionProblem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C9Rw603BRezeVv81gEph0yLcdJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FindImages">
+    <configuration name="ConvertUppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_manipulation.ConvertUppercase" />
+      <module name="Java_Assignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindImages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_manipulation.FindImages" />
+      <module name="Java_Assignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_manipulation.FindVowels" />
+      <module name="Java_Assignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyChattogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_manipulation.MyChattogram" />
+      <module name="Java_Assignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_manipulation.ReplaceChar" />
+      <module name="Java_Assignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindImages" />
+        <item itemvalue="Application.ConvertUppercase" />
+        <item itemvalue="Application.ReplaceChar" />
+        <item itemvalue="Application.FindVowels" />
+        <item itemvalue="Application.MyChattogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9683415-83d3-4cfe-9500-ace4bdfb88e9" name="Changes" comment="" />
+      <created>1658213052556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658213052556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
