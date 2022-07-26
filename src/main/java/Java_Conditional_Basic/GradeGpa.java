@@ -1,15 +1,16 @@
-/*  Write a program to calculate GPA and find grade */
-package Java_class_2;
+package Java_Conditional_Basic;
 
 import java.util.Scanner;
 
-public class FindGrade {
+public class GradeGpa {
     public static void main(String[] args) {
         System.out.println("welcome to the GPA and Grade calculating system-- \n"
-                + "enter the marks of the subjects");
+        + "enter the marks of the subjects");
         Scanner input = new Scanner(System.in);
 
         double a,b,c,d,e,f,g,k,l,m;
+
+
 
 
         System.out.println("bangla: ");
@@ -18,7 +19,7 @@ public class FindGrade {
         f = input.nextDouble();
 
         System.out.println("English: ");
-        b = input.nextDouble();
+         b = input.nextDouble();
         System.out.println("Credit: ");
         g = input.nextDouble();
 
@@ -31,7 +32,7 @@ public class FindGrade {
         System.out.println("General knowledge: ");
         d = input.nextDouble();
         System.out.println("Credit: ");
-        l = input.nextDouble();
+         l = input.nextDouble();
 
         System.out.println("Science: ");
         e = input.nextDouble();
@@ -65,6 +66,11 @@ public class FindGrade {
             System.out.println(" result Incomplete");
         }
 
-    }
 
+
+
+
+
+
+    }
 }

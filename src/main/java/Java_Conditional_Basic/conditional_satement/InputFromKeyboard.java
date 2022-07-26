@@ -1,6 +1,4 @@
-/* Write a program to sum of user input until users input ‘q’ from keyboard */
-
-package Java_class_2;
+package Java_Conditional_Basic.conditional_satement;
 
 import java.util.Scanner;
 
@@ -9,20 +7,16 @@ public class InputFromKeyboard {
         System.out.println("enter input: ");
         Scanner input = new Scanner(System.in);
         int n,sum=0;
-        //char q =0;
         while(true){
 
             n=input.nextInt();
-
             sum=sum+n;
             System.out.println("sum: " +sum);
             //char ch = input.next().charAt(0);
 
-            //if (n==Integer.parseInt(String.valueOf('q'))){
-            if (n==Character.getNumericValue('q')){
+            if (n==-1){
                 break;
             }
         }
     }
-
 }

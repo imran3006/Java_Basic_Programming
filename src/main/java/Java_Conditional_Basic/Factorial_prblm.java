@@ -1,9 +1,8 @@
-/* Write  a program to find the factorial of a given number */
-package Java_class_2;
+package Java_Conditional_Basic;
 
 import java.util.Scanner;
 
-public class FactorialNum {
+public class Factorial_prblm {
     public static void main(String[] args) {
         System.out.println("Enter number: ");
         Scanner input = new Scanner(System.in);
